@@ -5,18 +5,18 @@ tags:
 - tag2
 ---
 <center>
-<font size= "6">(Your Name) Datasheet</font><br>
+<font size= "6">Sakiya Mason's Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project Name</font><br>
+<font size= "8"> Project Gripper</font><br>
 for<br>
-<font size= "5"> Team ### </font><br>
+<font size= "5"> Team 104 </font><br>
 
-**Submission: month, DD, YYYY**
+**Submission: Fall 2026**
 </center>
 
 ## Introduction
 
-* This needs to be updated so that a reader gets an idea of the purpose of this datasheet.
+* The purpose of this datasheet is to...
 
 ### Project Summary
 
