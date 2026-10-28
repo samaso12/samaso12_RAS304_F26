@@ -8,6 +8,6 @@ tags:
 ## Overview
 The purpose for having the block diagram are for power levels, sensor, actuator, team connections, and power source
 
-## Example Block Diagram 
+## Block Diagram 
 
-![Example of Indivial Block diagram ](individual-block-diagram.png)
+![Example of Indivial Block diagram ](individual-block-diagram-sakiya.drawio.png)
