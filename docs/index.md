@@ -20,14 +20,14 @@ for<br>
 
 ### Project Summary
 
-* This needs to be updated to reflect <ins>your version</ins> of the team project, so when shared not via the team's report, the reader gets an idea of the direction of the project and how your work will contribute to the overall success.
-* Add context that ties into the link to your [team report.](https://embedded-systems-design.github.io/EGR304TeamTemplate/)
+* This is my version of the team project. When it is shared outside of the official team report, you, the reader, will have a clear idea of the project's direction and how my work contributes to its overall success.
+* Link to my [team report.](https://ras304-f26-team104.github.io/RAS304-F26-104/)
 
 
 ### My Contribution
 
-* This needs to be updated to reflect a team introduction
-* Content should also help an unfamiliar reader navigate to areas of interest. Information like:
+* My team's introduction
+* Here's help for unfamiliar readers to navigate to areas of interest. Information like:
 
 To review the details listed of the material used to construct the subsection, you can review it in the ["BOM"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/03-BOM/BOM/) section of the datasheet.
 

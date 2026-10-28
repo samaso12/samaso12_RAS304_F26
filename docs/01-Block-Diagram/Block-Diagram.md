@@ -10,4 +10,4 @@ The purpose for having the block diagram are for power levels, sensor, actuator,
 
 ## Block Diagram 
 
-![Indivial Block diagram ]()
+![Indivial Block diagram ](sakiya-individual-block-diagram.drawio.png)
