@@ -16,7 +16,7 @@ for<br>
 
 ## Introduction
 
-* The purpose of this datasheet is to...
+* The purpose of this datasheet is to keep a journal of my individual contributions to my embedded systems group project.
 
 ### Project Summary
 
