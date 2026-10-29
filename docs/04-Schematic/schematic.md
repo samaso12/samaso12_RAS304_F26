@@ -4,11 +4,11 @@ title: Schematic
 
 ## Overview
 
-This schematic is design to support .... (highlight functionally, power, and controller).
+This schematic is designed to support the mod bus portion of the gripper end effector group project.
 
 
 ![schematic](Screenshot 2026-10-28 233603.png){style width:"350" height:"300;"}
-**Figure 1:** Showing a example schematic.
+**Figure 1:** Showing my schematic.
 
 
 ## Resouces
