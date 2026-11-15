@@ -6,23 +6,16 @@ tags:
 ---
 
 ## Overview
-written context
+All components and quantities needed to build modbus portion of group 104 project.
 
-## Bill of Materials Example (as Table)
+## Bill of Materials (as Table)
 
-*Table ##: An example of one approach to adding your BOM table to this section.*
 
 | **Part Name/Description** | **Qty** | **Unit Cost** | **Total Cost** | **Manufacture** | **Manufacturer #** | **Vendor Link** |**Datasheet Link** | **Schematic Reference Designators** |
 |:--------------------|:----|:---------------|:-----|:--------|:-----|:-----|:----|:-----|
-8-bit SIPO/SISO Shift Register, SOIC-16 package | 1 | $0.49 | $ 0.49 | NXP | 74HC595D,112 | [DigiKey](https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HC595D-112/763550) | [datasheet link](https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf) | U1 |
-0.1 µF Ceramic Capacitor, +/-10%, X7R, 50V, 0805 package |10 | 0.2750 | $2.75 | KEMET | C0805F104K5RACTU | PRLTA 109 |n/a | C2, C4, C6, C7, C8, C9, C10, C11, C12, C16
-
-Note: Setting it up as a table is nice because it is completely viewable without scaling issues. <ins>Downside</ins> is that you have to do the math.
-
-* You could also import your BOM via a screenshot of the spreadsheet created BOM
-
-## Bill of Materials Example (as Image)
-![](BOM-Screenshot.png){style width: "2000"}
-**Figure 2:** Example Bill of Materials as a screenshot.
-
-As you can see, the text can be difficult to read without opening the image.
+LM7805 Voltage Regulator | 1 | $0.33330 | $0.33330 | TAEJIN | LM7805T | [DigiKey](https://www.digikey.com/en/products/detail/taejin/LM7805T/22237260) | [datasheet link](https://www.htckorea.co.kr/Datasheet/Voltage%20Regulator/LM78xx.pdf) | N/A |
+Barrel Jack |1 | $0.83 | $0.83 | Same Sky (Formerly CUI Devices) | PJ-102AH |[DigiKey](https://www.digikey.com/en/products/detail/cui-devices/PJ-102AH/408448) | [datasheet link](https://www.cuidevices.com/product/resource/pj-102ah.pdf) | N/A |
+0.33 µF ±20% 50V Ceramic Capacitor Z5U Radial | 1 | $0.74 | $0.74 | KEMET | C322C334M5U5TA | [DigiKey](https://www.google.com/aclk?sa=L&ai=DChsSEwjyhaz-voaYAxUNOEQIHRXOFOEYACICCAEQExoCZHo&ae=2&co=1&ase=2&gclid=Cj0KCQiAh9vXBhDKARIsAMooYhepmZvfVxkgQDZo_Xot5D2BU9lgOMBkPtH_cGJf6C_g9z-1fvr_1dYaAp8JEALw_wcB&cid=CAASWeRovq0zdWetnkblSMo3ZHV11wH5ruaCZgnIqItzlXl0xIJUBHNqKYkn13W_ihVln3LEig0h0H5JLhrFs-boIoj9tiKltsGkszsIhzBQM81TH7NRiT-SfhMV&cce=2&category=acrcp_v1_71&sig=AOD64_1CDnFm7pcZToBsbY3ErKgjdmSiqg&ctype=5&q=&nis=4&ved=2ahUKEwjDzaX-voaYAxWgO0QIHZADDiQQ9aACKAB6BQgKEKcB&adurl=) | [datasheet link](https://yageogroup.com/content/datasheet/asset/file/KEM_C1051_GOLDMAX_Z5U) | N/A |
+Ceramic 0.1uF (100nF) capacitor | 1 | $0.75 | $0.75 | Tinkersphere | TS1303 | [Tinkersphere.com](https://tinkersphere.com/capacitors/1303-01uf-100nf-capacitor-104.html?srsltid=AYCX9vKOveVXTVirLaTFBsWrVkbC0sWXv8M0VRVXNmDAQ35iZiNDOQsh4_8) | N/A | N/A |
+LED RED | 1 | $0.16 | $0.16 | Würth Elektronik | 151051RS11000 | [DigiKey](https://www.digikey.com/en/products/detail/w-rth-elektronik/151051RS11000/4490012?gclsrc=aw.ds&gad_source=4&gad_campaignid=20228387720&gbraid=0AAAAADrbLljS3uSUm0X7cHPCodCsgywe9&gclid=Cj0KCQiAh9vXBhDKARIsAMooYhdfnl4FeGKjTbvodz3sgW2bHK4TBlyxsGwJ5-eqg80SdEtoA9dO7I0aAsdJEALw_wcB) | [datasheet link](https://www.we-online.com/components/products/datasheet/151051RS11000.pdf) | N/A |
+LCD MOD 32DIG 16X2 TRANSMISV WHT | 1 | $7.44 | $7.44 | Newhaven Display Intl | NHD-0216K1Z-NSW-BBW-L | [DigiKey](https://www.digikey.com/en/products/detail/newhaven-display-intl/NHD-0216K1Z-NSW-BBW-L/1701179?gclsrc=aw.ds&gad_source=1&gad_campaignid=20718378137&gbraid=0AAAAADrbLljPDuaVJbRAFr5pS_u-TaAJJ&gclid=CjwKCAiAquDXBhApEiwAoyNqBEEYYsK6nf957pgvBM1jJoBTFIXwaNjYIJszyQaNGE92QJAc-Um4-BoCx-oQAvD_BwE) | [datasheet link](https://newhavendisplay.com/content/specs/NHD-0216K1Z-NSW-BBW-L.pdf) | N/A |
