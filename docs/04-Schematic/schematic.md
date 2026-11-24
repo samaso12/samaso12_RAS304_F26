@@ -13,8 +13,4 @@ This schematic is designed to support the mod bus portion of the gripper end eff
 
 ## Resouces
 
-<<<<<<< HEAD
 The schematic as a PDF download is available [*here*](Individual -- Subsystem Schematic Design.pdf), and the Zip folder of the project [*here*](schematicZip.zip).
-=======
-The schematic as a PDF download is available [*here*](Subsystem Schematic Design.pdf), and the Zip folder of the project [*here*](dummyZip.zip).
->>>>>>> 30c05c48ae9d050ad9ad4db4d959bdd7d1d9df23
